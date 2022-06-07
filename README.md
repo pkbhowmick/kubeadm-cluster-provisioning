@@ -56,3 +56,18 @@ kubectl get pods -A
 
 ### Acknowledgement
 A big thanks to [Emruz Hossain](https://github.com/hossainemruz) bhai for the k8s provision workflow contents.
+
+### Resources
+
+- Kubernetes Networking
+    - https://www.cloudflare.com/learning/network-layer/what-is-an-autonomous-system/
+    - https://www.cloudflare.com/learning/security/glossary/what-is-bgp/
+    - https://www.magalix.com/blog/kubernetes-cluster-networking-101
+
+- Container Network Interface
+    - https://kubernetes.io/docs/concepts/cluster-administration/networking/#how-to-implement-the-kubernetes-networking-model
+    - https://kubernetes.io/docs/concepts/architecture/cri/
+    - [Introduction to CNI, the Container Network Interface Project - Bryan Boreham & Dan Williams](https://www.youtube.com/watch?v=YjjrQiJOyME)
+    - [Below Kubernetes: Demystifying container runtimes](https://www.youtube.com/watch?v=MDsjINTL7Ek)
+    - [Kubernetes Networking: How to Write a CNI Plugin From Scratch - Eran Yanay, Twistlock](https://www.youtube.com/watch?v=zmYxdtFzK6s)
+    
