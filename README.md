@@ -12,6 +12,9 @@
 
 #### Provision k8s cluster (Single node)
 - Permanently disable swap. 
+Updates on swap:
+- https://github.com/kubernetes/kubernetes/issues/53533
+- https://github.com/kubernetes/enhancements/tree/master/keps/sig-node/2400-node-swap
 
 ```bash
 swapoff -a; sed -i '/swap/d' /etc/fstab
