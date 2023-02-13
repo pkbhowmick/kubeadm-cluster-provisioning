@@ -11,7 +11,7 @@
     - Storage >= 10GB
 
 #### Provision k8s cluster (Single node)
-- Permanently disable swap. 
+Permanently disable swap. 
 Updates on swap:
 - https://github.com/kubernetes/kubernetes/issues/53533
 - https://github.com/kubernetes/enhancements/tree/master/keps/sig-node/2400-node-swap
