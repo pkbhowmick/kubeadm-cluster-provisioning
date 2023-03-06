@@ -8,7 +8,7 @@
 - Recommended vm system requirements:
     - CPU >= 2 cores
     - Memory >= 2 GB
-    - Storage >= 10GB
+    - Storage >= 20GB
 
 #### Provision k8s cluster (Single node)
 Permanently disable swap. 
